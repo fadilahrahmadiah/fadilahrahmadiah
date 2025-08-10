@@ -6,7 +6,6 @@ I'm Dila, an Informatics Engineering student at Sriwijaya University who’s alw
 
 I’m deeply interested in areas like computer vision, image processing, and the fascinating world of machine learning, from supervised and unsupervised learning to neural networks and artificial intelligence, classification, digital image processing, and exploring signal, image, and video processing. I’m also passionate about face recognition technology and hands-on IoT projects.
 <br><br>
-
 **My motivation comes from the journey, starting from using a library or tool, to eventually understanding and creating that whole thing from scratch. I just do things for knowledge and self satisfaction.** I believe that true mastery comes from building things yourself, and that’s what drives me every day.
 
 [![Dyla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fadilahrahmadiah&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
