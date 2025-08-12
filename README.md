@@ -32,7 +32,6 @@ Always so so so happy to connect, whether you want to discuss tech, share ideas,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/fadilah-rahmadiah-a11b2b292)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahmadiahfadilah@gmail.com)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://pin.it/JE3XBgxuI)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/tav7gjxjawrh5optecysw3eb1?si=emvm4H2pTI-5NwACfVLCeA)
 
 
 
