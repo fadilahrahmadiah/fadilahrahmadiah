@@ -1,7 +1,7 @@
 > "What I cannot create, I do not understand." – Richard P. Feynman  
 
 <h4>Hi Hi Hiii thereee! 👋</h4>  
-I'm Dila, an Informatics Engineering student at Sriwijaya University who’s always curious about the tech world. I love building things that mix creativity with problem-solving, and I’m constantly on the lookout for new tools, frameworks, and fun ideas to try out. 🚀
+I'm Dila, an Computer Science student at Sriwijaya University who’s always curious about the tech world. I love building things that mix creativity with problem-solving, and I’m constantly on the lookout for new tools, frameworks, and fun ideas to try out. 🚀
 <br><br>
 
 I’m deeply interested in exploring all facets of Artificial Intelligence—ranging from computer vision and digital image processing to machine learning, neural networks, signal and video analysis, and hands-on IoT projects. If it involves AI and building smart systems, I’m all in.
